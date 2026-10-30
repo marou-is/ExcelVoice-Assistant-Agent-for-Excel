@@ -1,0 +1,6 @@
+faster-whisper>=1.0.0
+sounddevice>=0.4.6
+numpy>=1.24
+google-genai>=1.0.0
+pywin32>=306
+python-dotenv>=1.0.0
